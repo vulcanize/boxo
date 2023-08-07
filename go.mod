@@ -173,4 +173,4 @@ require (
 	nhooyr.io/websocket v1.8.7 // indirect
 )
 
-replace github.com/ipfs/go-datastore => /Users/iannorden/go/src/github.com/ipfs/go-datastore
+replace github.com/ipfs/go-datastore => github.com/vulcanize/go-datastore v0.6.1-internal
