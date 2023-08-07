@@ -172,3 +172,5 @@ require (
 	lukechampine.com/blake3 v1.1.7 // indirect
 	nhooyr.io/websocket v1.8.7 // indirect
 )
+
+replace github.com/ipfs/go-datastore => github.com/vulcanize/go-datastore v0.6.1-internal
